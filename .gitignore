@@ -6,7 +6,7 @@ dist/
 demo/dist/
 
 # Base de datos y backups (NUNCA subas esto)
-data/
+/data/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
@@ -22,4 +22,4 @@ npm-debug.log*
 
 # Sistema operativo
 .DS_Store
-Thumbs.db, REVISAR
+Thumbs.db
